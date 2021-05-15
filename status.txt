@@ -1,1 +1,1 @@
-01loader.dll
+teszt.dll
