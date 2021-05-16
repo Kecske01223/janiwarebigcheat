@@ -1,6 +1,6 @@
-log1 \n
-log2 \n
-log3 \n
-log4 \n
-log5 \n
-log6 \n
+log1 ,
+log2 ,
+log3 ,
+log4 ,
+log5 ,
+log6 ,
